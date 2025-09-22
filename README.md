@@ -22,7 +22,7 @@
   → ブラウザから直接アクセス可能なシンプルなUI  
 - **Secrets管理**  
   → APIキーは `.env` や Streamlit Cloud の Secrets に安全に保存  
-
+<img width="739" height="471" alt="Image" src="https://github.com/user-attachments/assets/135a5574-1de3-4a6c-8a42-cc2ae0429bb5" />
 ---
 
 ## 💡 使い方

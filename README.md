@@ -14,7 +14,8 @@
 
 ## 🛠️ 使用技術
 - **Google Custom Search API**  
-  → ホワイトリストのURLのみを対象に検索  
+  → ホワイトリストのURLのみを対象に検索
+  https://cse.google.com/cse?cx=a348500516c4940fb
 - **OpenAI GPT-4o-mini**  
   → 検索結果を日本語で要約・整形（幻覚防止ルールを適用）  
 - **Streamlit**  

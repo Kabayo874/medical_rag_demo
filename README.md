@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 デモURL
-👉 [Streamlit Cloudでデモを見る](https://xxxxx.streamlit.app)
+👉 [Streamlit Cloudでデモを見る](https://medicalragdemo-9x87xea88vfrzmepesvhjr.streamlit.app/)
 
 ---
 

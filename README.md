@@ -23,7 +23,7 @@
 - **Secrets管理**  
   → APIキーは `.env` や Streamlit Cloud の Secrets に安全に保存
 
-<img width="423" height="668" alt="Image" src="https://github.com/user-attachments/assets/3ef1664d-357a-4e5c-afda-ba49eb6049da" />
+<img width="416" height="660" alt="Image" src="https://github.com/user-attachments/assets/d8d37a5d-0ab7-4904-9488-6672318754db" />
 
 ---
 

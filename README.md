@@ -21,15 +21,24 @@
 - **Streamlit**  
   → ブラウザから直接アクセス可能なシンプルなUI  
 - **Secrets管理**  
-  → APIキーは `.env` や Streamlit Cloud の Secrets に安全に保存  
-<img width="739" height="471" alt="Image" src="https://github.com/user-attachments/assets/135a5574-1de3-4a6c-8a42-cc2ae0429bb5" />
+  → APIキーは `.env` や Streamlit Cloud の Secrets に安全に保存
+
+<img width="423" height="668" alt="Image" src="https://github.com/user-attachments/assets/3ef1664d-357a-4e5c-afda-ba49eb6049da" />
+
 ---
 
 ## 💡 使い方
 1. テキストボックスに質問を入力（例: `2型糖尿病の降圧目標は？`）  
 2. 数秒で「結論 / 根拠 / 注意点 / 出典」が表示されます  
 3. 出典URLをクリックして一次情報を確認できます
-file:///Users/kabayahanayo/Desktop/Screenshot%200007-09-22%20at%2019.12.37.png
+<img width="739" height="471" alt="Image" src="https://github.com/user-attachments/assets/135a5574-1de3-4a6c-8a42-cc2ae0429bb5" />
+
+
+---
+
+## 🅿️ ポイント
+- 情報源を絞り込んでいるため、出典がないものについては該当なしと表示される
+<img width="740" height="529" alt="Image" src="https://github.com/user-attachments/assets/455f5f05-a977-4b9f-af5e-5cb70fe02f94" />
 
 
 ---

@@ -25,12 +25,15 @@
 
 <img width="416" height="660" alt="Image" src="https://github.com/user-attachments/assets/d8d37a5d-0ab7-4904-9488-6672318754db" />
 
+- VScode → Github → Streamlit
+
 ---
 
 ## 💡 使い方
 1. テキストボックスに質問を入力（例: `2型糖尿病の降圧目標は？`）  
 2. 数秒で「結論 / 根拠 / 注意点 / 出典」が表示されます  
 3. 出典URLをクリックして一次情報を確認できます
+4. 結果をCSVでダウンロードできます
 <img width="739" height="471" alt="Image" src="https://github.com/user-attachments/assets/135a5574-1de3-4a6c-8a42-cc2ae0429bb5" />
 
 

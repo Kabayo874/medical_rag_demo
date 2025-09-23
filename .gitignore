@@ -1,1 +1,4 @@
+.envvenv/
 .env
+logs.csv
+__pycache__/
